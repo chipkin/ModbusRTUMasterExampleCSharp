@@ -1,0 +1,6 @@
+
+bin/
+
+ModbusRTUMasterExampleCSharp/\.vs/
+
+ModbusRTUMasterExampleCSharp/obj/

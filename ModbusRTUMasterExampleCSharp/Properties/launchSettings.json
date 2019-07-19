@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModbusRTUMasterExampleCSharp": {
+      "commandName": "Project",
+      "workingDirectory": "../bin"
+    }
+  }
+}
