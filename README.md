@@ -120,3 +120,12 @@ Help:
  W - Write 40001, fnk=16, add=1, count=3
 
 ```
+
+
+## Building
+
+1. Copy *CASModbusStack_Win32_Debug.dll*, *CASModbusStack_Win32_Release.dll*, *CASModbusStack_x64_Debug.dll*, and *CASModbusStack_x64_Release.dll* from the [CAS Modbus Stack](https://store.chipkin.com/services/stacks/modbus-stack) project  into the /bin/ folder.
+2. Use [Visual Studios 2019](https://visualstudio.microsoft.com/vs/) to build the project. The solution can be found in the */ModbusRTUMasterExampleCSharp/* folder.
+
+Note: The project is automaticly build on every checkin using GitlabCI.
+
